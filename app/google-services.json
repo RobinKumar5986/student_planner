@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "78891370660",
+    "firebase_url": "https://student-planner-task-5-phn-default-rtdb.firebaseio.com",
+    "project_id": "student-planner-task-5-phn",
+    "storage_bucket": "student-planner-task-5-phn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78891370660:android:6efff90a6eb42812597e31",
+        "android_client_info": {
+          "package_name": "com.example.finaltaskfive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78891370660-kd15dtseb55i7sk2mavo90m2bon54ma9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Ioj4c7nn70rzZq_lOLN4BBwl8bwTD0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78891370660-fv27eh1e6nf1aee1ssfpokpb0ec5fi3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78891370660:android:b7c59c4872ffe499597e31",
+        "android_client_info": {
+          "package_name": "com.example.studentplanertwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78891370660-10nfma1qt3q46q6hg4fl7o1ng6831afc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentplanertwo",
+            "certificate_hash": "c0e8eb0c52b4add6b75c4561b28e7025a73a4156"
+          }
+        },
+        {
+          "client_id": "78891370660-kd15dtseb55i7sk2mavo90m2bon54ma9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Ioj4c7nn70rzZq_lOLN4BBwl8bwTD0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78891370660-fv27eh1e6nf1aee1ssfpokpb0ec5fi3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78891370660:android:c599bfa849a540ae597e31",
+        "android_client_info": {
+          "package_name": "com.example.studentplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78891370660-kd15dtseb55i7sk2mavo90m2bon54ma9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Ioj4c7nn70rzZq_lOLN4BBwl8bwTD0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78891370660-fv27eh1e6nf1aee1ssfpokpb0ec5fi3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
